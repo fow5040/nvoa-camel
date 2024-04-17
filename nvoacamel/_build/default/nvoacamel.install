@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/nvoacamel/META"
+  "_build/install/default/lib/nvoacamel/dune-package"
+  "_build/install/default/lib/nvoacamel/opam"
+]
+bin: [
+  "_build/install/default/bin/nvoacamel"
+]
